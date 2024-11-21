@@ -66,9 +66,9 @@ app.post("/bfhl", async (req, res) => {
 
     res.json({
       is_success: true,
-      user_id: "john_doe_17091999",
-      email: "john@xyz.com",
-      roll_number: "ABCD123",
+      user_id: "Mitali_Singh_18112003",
+      email: "mitalisingh210594@acropolis.in",
+      roll_number: "0827CI211110",
       numbers,
       alphabets,
       highest_lowercase_alphabet: highestLowercase ? [highestLowercase] : [],
